@@ -1,0 +1,92 @@
+.dimensiuni {
+	height: 200px;
+	width: 200px;
+}
+
+#afisare {
+	font-size: 32px;
+}
+
+.berbec {
+	background-image: url('berbec.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.taur {
+	background-image: url('taurus.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.gemeni {
+	background-image: url('gemini.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.rac {
+	background-image: url('rac.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.leu {
+	background-image: url('leo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.fecioara {
+	background-image: url('virgo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.balanta {
+	background-image: url('balanta.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.scorpion {
+	background-image: url('scorpio.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.sagetator {
+	background-image: url('sagetator.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.capricorn {
+	background-image: url('capricorn.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.varsator {
+	background-image: url('aquarius.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
+
+.pesti {
+	background-image: url('pesti.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	z-index: -1;
+}
