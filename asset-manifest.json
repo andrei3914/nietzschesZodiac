@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nietzschesZodiac/static/css/main.526e870a.chunk.css",
+    "main.js": "/nietzschesZodiac/static/js/main.2952717d.chunk.js",
+    "main.js.map": "/nietzschesZodiac/static/js/main.2952717d.chunk.js.map",
+    "runtime-main.js": "/nietzschesZodiac/static/js/runtime-main.74ac4ad8.js",
+    "runtime-main.js.map": "/nietzschesZodiac/static/js/runtime-main.74ac4ad8.js.map",
+    "static/css/2.31461e4f.chunk.css": "/nietzschesZodiac/static/css/2.31461e4f.chunk.css",
+    "static/js/2.db999dd5.chunk.js": "/nietzschesZodiac/static/js/2.db999dd5.chunk.js",
+    "static/js/2.db999dd5.chunk.js.map": "/nietzschesZodiac/static/js/2.db999dd5.chunk.js.map",
+    "static/js/3.26a78a53.chunk.js": "/nietzschesZodiac/static/js/3.26a78a53.chunk.js",
+    "static/js/3.26a78a53.chunk.js.map": "/nietzschesZodiac/static/js/3.26a78a53.chunk.js.map",
+    "index.html": "/nietzschesZodiac/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/nietzschesZodiac/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.526e870a.chunk.css.map": "/nietzschesZodiac/static/css/main.526e870a.chunk.css.map",
+    "static/js/2.db999dd5.chunk.js.LICENSE.txt": "/nietzschesZodiac/static/js/2.db999dd5.chunk.js.LICENSE.txt",
+    "static/media/Carduri.css": "/nietzschesZodiac/static/media/virgo.b46c8a80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74ac4ad8.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.db999dd5.chunk.js",
+    "static/css/main.526e870a.chunk.css",
+    "static/js/main.2952717d.chunk.js"
+  ]
+}
